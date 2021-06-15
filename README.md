@@ -1,11 +1,11 @@
-### Hi there 👋
-
-I'm phosphene47.
-
 I usually play games. I write code as a hobby.
 
-https://chiya.dev/<br/>
-https://twitter.com/phosphene47
+[chiya.dev](https://chiya.dev/)<br/>
+[twitter.com/phosphene47](https://twitter.com/phosphene47)
+
+---
+
+![counter](https://count.getloli.com/get/@phos)
 
 <!--
 **phosphene47/phosphene47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
