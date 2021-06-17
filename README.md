@@ -1,4 +1,4 @@
-I usually play games. I write code as a hobby.
+I play games! I write code as a hobby.
 
 [chiya.dev](https://chiya.dev/)<br/>
 [twitter.com/phosphene47](https://twitter.com/phosphene47)
